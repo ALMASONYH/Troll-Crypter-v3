@@ -8,6 +8,8 @@ Advanced Python file protector with multi-layer encryption — built in C++ with
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-darkviolet.svg)
 
+![Tool](https://i.ibb.co/m5MZRnbG/image.png)
+
 ---
 
 ## Features
