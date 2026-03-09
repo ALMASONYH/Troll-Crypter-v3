@@ -1,0 +1,35 @@
+// Troll Crypter v3 - Mason Group / Freemasonry
+// Developed by ABOLHB
+
+#include <winver.h>
+
+IDI_ICON1 ICON "icon.ico"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     3,0,0,0
+PRODUCTVERSION  3,0,0,0
+FILEFLAGSMASK   VS_FFI_FILEFLAGSMASK
+FILEFLAGS       0
+FILEOS          VOS__WINDOWS32
+FILETYPE        VFT_APP
+FILESUBTYPE     VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName",      "Mason Group / Freemasonry"
+            VALUE "FileDescription",  "Troll Crypter v3 - Advanced Python File Protector"
+            VALUE "FileVersion",      "3.0.0.0"
+            VALUE "InternalName",     "TrollCrypter"
+            VALUE "LegalCopyright",   "Copyright (c) 2025 ABOLHB - Mason Group"
+            VALUE "OriginalFilename", "TrollCrypter.exe"
+            VALUE "ProductName",      "Troll Crypter"
+            VALUE "ProductVersion",   "3.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1252
+    END
+END
