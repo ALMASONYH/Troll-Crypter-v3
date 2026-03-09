@@ -28,7 +28,7 @@ Advanced Python file protector with multi-layer encryption — built in C++ with
 ## Project Structure
 
 ```
-TrollCrypter-CPP/
+TrollCrypterV3/
 ├── CMakeLists.txt
 ├── LICENSE
 ├── README.md
