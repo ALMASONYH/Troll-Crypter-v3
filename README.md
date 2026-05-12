@@ -28,7 +28,7 @@ Advanced Python file protector with multi-layer encryption — built in C++ with
 ## Project Structure
 
 ```
-TrollCrypterV3/
+Troll-Crypter-v3-main/
 ├── CMakeLists.txt
 ├── LICENSE
 ├── README.md
@@ -83,7 +83,7 @@ Close and reopen your terminal after installing.
 ### Step 2: Clone vcpkg and install dependencies
 
 ```cmd
-cd TrollCrypter-CPP
+cd Troll-Crypter-v3-main
 git clone https://github.com/microsoft/vcpkg.git --depth 1
 vcpkg\bootstrap-vcpkg.bat -disableMetrics
 vcpkg\vcpkg.exe install openssl:x64-windows zlib:x64-windows
